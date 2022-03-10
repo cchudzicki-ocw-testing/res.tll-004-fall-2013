@@ -6,6 +6,8 @@ learning_resource_types:
 ocw_type: SupplementalResourceSection
 title: Videos
 uid: 53bcb5ef-562b-8c20-bc21-9567e0269453
+video_metadata:
+  youtube_id: null
 videos:
   content: []
   website: res-tll-004-stem-concept-videos-fall-2013
@@ -190,7 +192,7 @@ Differential equations model changing properties in engineering systems.
 
 
 *   [18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010)
-*   [8.02SC Physics II](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/content/pages/readings)
+*   [8.02SC Physics II](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/pages/readings)
 
 
 {{< tdclose >}}
@@ -208,7 +210,7 @@ Differential equations model changing properties in engineering systems.
 
 
 *   [18.02 Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010)
-*   [8.02SC Physics II](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/content/pages/readings)
+*   [8.02SC Physics II](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/pages/readings)
 
 
 {{< tdclose >}}
@@ -226,7 +228,7 @@ Differential equations model changing properties in engineering systems.
 
 
 *   [18.02SC Multivariable Calculus](/courses/18-02sc-multivariable-calculus-fall-2010)
-*   [8.02SC Physics II: Electricity and Magnetism](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/content/pages/readings)
+*   [8.02SC Physics II: Electricity and Magnetism](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/pages/readings)
 
 
 {{< tdclose >}}
