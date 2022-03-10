@@ -26,7 +26,7 @@ related_resources_text: 'Instructor Guide
 
 
   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Electric
-  Potential Instructor Guide (PDF - 1.1MB)](resources/mitres_tll-004f13_eleguide)'
+  Potential Instructor Guide (PDF - 1.1MB)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_eleguide)'
 resource_index_text: ''
 resourcetype: Video
 title: Electric Potential

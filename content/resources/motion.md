@@ -25,7 +25,7 @@ related_resources_text: 'Instructor Guide
 
 
   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Motion
-  Instructor Guide (PDF)](resources/mitres_tll-004f13_motn_ig)'
+  Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_motn_ig)'
 resource_index_text: ''
 resourcetype: Video
 title: Motion

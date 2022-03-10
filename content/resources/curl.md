@@ -26,7 +26,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  [Curl Instructor Guide (PDF)](resources/mitres_tll-004f13_curl_ig)'
+  [Curl Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_curl_ig)'
 resource_index_text: ''
 resourcetype: Video
 title: Curl

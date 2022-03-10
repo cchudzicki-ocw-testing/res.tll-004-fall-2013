@@ -30,7 +30,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  [Equilibrium vs. Steady State Instructor Guide (PDF)](resources/mitres_tll-004f13_equguide)'
+  [Equilibrium vs. Steady State Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_equguide)'
 resource_index_text: ''
 resourcetype: Video
 title: Equilibrium vs. Steady State

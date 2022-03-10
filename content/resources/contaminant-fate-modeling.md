@@ -17,7 +17,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  [Contaminant Fate Modeling Instructor Guide (PDF)](resources/mitres_tll-004f13_cnfat_ig)'
+  [Contaminant Fate Modeling Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_cnfat_ig)'
 resource_index_text: ''
 resourcetype: Video
 title: Contaminant Fate Modeling

@@ -25,7 +25,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  [Genetics and Statistics Instructor Guide (PDF)](resources/mitres_tll-004f13_gntcs_ig)'
+  [Genetics and Statistics Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_gntcs_ig)'
 resource_index_text: ''
 resourcetype: Video
 title: Genetics and Statistics

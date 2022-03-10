@@ -22,7 +22,7 @@ related_resources_text: 'Instructor Guide
 
 
   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Flux
-  and Gauss'' Law Instructor Guide (PDF)](resources/mitres_tll-004f13_flxguide)'
+  and Gauss'' Law Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_flxguide)'
 resource_index_text: ''
 resourcetype: Video
 title: Flux and Gauss' Law

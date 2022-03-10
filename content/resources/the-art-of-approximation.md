@@ -29,7 +29,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  [The Art of Approximation Instructor Guide (PDF)](resources/mitres_tll-004f13_artguide)'
+  [The Art of Approximation Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_artguide)'
 resource_index_text: ''
 resourcetype: Video
 title: The Art of Approximation

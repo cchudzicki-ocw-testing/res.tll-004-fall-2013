@@ -28,7 +28,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  [Chirality Instructor Guide (PDF)](resources/mitres_tll-004f13_chiralig)'
+  [Chirality Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_chiralig)'
 resource_index_text: ''
 resourcetype: Video
 title: Chirality

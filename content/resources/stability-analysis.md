@@ -34,7 +34,7 @@ related_resources_text: 'Instructor Guide
 
 
   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Stability
-  Analysis Instructor Guide (PDF)](resources/mitres_tll-004f13_stbal_ig)'
+  Analysis Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_stbal_ig)'
 resource_index_text: ''
 resourcetype: Video
 title: Stability Analysis

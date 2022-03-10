@@ -14,7 +14,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  [Strategic Communication Instructor Guide (PDF)](resources/mitres_tll-004f13_srtguide)'
+  [Strategic Communication Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_srtguide)'
 resource_index_text: ''
 resourcetype: Video
 title: Strategic Communication
