@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Student Experience
 optional_text: 'Student Experience
@@ -33,6 +35,7 @@ related_resources_text: 'Instructor Guide
   [Kinetic Theory Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_kinguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Kinetic Theory
 uid: 195e7c24-be3e-ee90-ee9e-e0088cc1b746
 video_files:
@@ -62,3 +65,4 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Student Experience
 optional_text: 'It is highly recommended that the video is paused when prompted so
@@ -20,6 +22,7 @@ related_resources_text: 'Instructor Guide
   [Contaminant Fate Modeling Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_cnfat_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Contaminant Fate Modeling
 uid: ecc66009-4f3c-1d95-85d9-44d9b0721401
 video_files:
@@ -49,3 +52,4 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-tll-004-stem-concept-videos-fall-2013/e13c82e59907351448023037c8684bde_res-tl-004f13-th.jpg
+file: /media/courses/res-tll-004-stem-concept-videos-fall-2013/e13c82e59907351448023037c8684bde_res-tl-004f13-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The icons above represent the themes covered in the STEM Concept Videos,
@@ -11,8 +11,13 @@ image_metadata:
   image-alt: Illustrated icons of graphs, neurons, and molecules, representing the
     themes of the Concept Vignette videos.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-tl-004f13-th.jpg
 uid: e13c82e5-9907-3514-4802-3037c8684bde
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

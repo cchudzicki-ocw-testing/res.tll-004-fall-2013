@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 is_media_gallery: true
 learning_resource_types:
 - Videos
@@ -9,6 +10,10 @@ parent_type: SupplementalResourceSection
 parent_uid: 53bcb5ef-562b-8c20-bc21-9567e0269453
 title: Differential Equations
 uid: 7e7fcfb2-1302-97e4-3da2-fb9fcaab47f4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - d100e428-782c-b163-1e58-67fd7984f6d7

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Student Experience
 optional_text: 'It is highly recommended that the video is paused when prompted so
@@ -24,10 +26,10 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Enzyme
-  Kinetics Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_enzguide)'
+  [Enzyme Kinetics Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_enzguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Enzyme Kinetics
 uid: c08191be-1e1b-45d7-7e86-c936c20d1a9b
 video_files:
@@ -57,3 +59,4 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
+

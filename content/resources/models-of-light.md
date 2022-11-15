@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Student Experience
 optional_text: 'It is highly recommended that the video is paused when prompted so
@@ -22,10 +24,10 @@ parent_type: SupplementalResourceSection
 related_resources_text: 'Instructor Guide
 
 
-  [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Models
-  of Light Instructor Guide (PDF)](resources/mitres_tll-004f13_modguide)'
+  [Models of Light Instructor Guide (PDF)](resources/mitres_tll-004f13_modguide)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Models of Light
 uid: d50255d8-342c-96cc-7510-30096df822b2
 video_files:
@@ -56,3 +58,4 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
+

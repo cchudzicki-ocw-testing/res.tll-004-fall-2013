@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: Student Experience
 optional_text: 'It is highly recommended that the video is paused when prompted so
   that students are able to attempt the activities on their own and then check their
@@ -28,6 +30,7 @@ related_resources_text: 'Instructor Guide
   [Genetics and Statistics Instructor Guide (PDF)](/courses/res-tll-004-stem-concept-videos-fall-2013/resources/mitres_tll-004f13_gntcs_ig)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Genetics and Statistics
 uid: 689f4a64-94be-649e-9225-a44f7cc040b0
 video_files:
@@ -54,3 +57,4 @@ Funding provided by the Singapore University of Technology and Design (SUTD)
 Developed by the Teaching and Learning Laboratory (TLL) at MIT for SUTD
 
 MIT © 2012
+
